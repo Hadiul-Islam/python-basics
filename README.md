@@ -1,4 +1,4 @@
-# Basic Python with Hadiul
+# Basic Python with [Hadiul Islam](https://hadiul.me/)
 
 ## Built-in Data Types
 ### In programming, data type is an important concept.
