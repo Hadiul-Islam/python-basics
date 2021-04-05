@@ -16,4 +16,4 @@
 - Binary Types:	bytes, bytearray, memoryview
 
 ## Getting the Data Type
-- You can get the data type of any object by using the `<type()>` function:
+- You can get the data type of any object by using the `type()` function:
