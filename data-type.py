@@ -24,5 +24,4 @@ age_value = str(age)
 print(f"Name : {user_name}  Country: {country}  Age: {age_value}")
 print(len(user_name))
 
-# List 
 
