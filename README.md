@@ -39,4 +39,17 @@ Good to know
 - Greater than: `a > b`
 - Greater than or equal `to: a >= b`
 
+## Python Loops
+### Python has two primitive loop commands:
+
+- `while` loops
+- `for` loops
+
+## Python Functions
+
+- A function is a block of code which only runs when it is called.
+
+- You can pass data, known as parameters, into a function.
+
+- A function can return data as a result.
 
