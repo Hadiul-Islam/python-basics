@@ -1,27 +1,14 @@
-## String and Number with use 
+#all data type in python with examples:
+name = 'John' #string
+age = 20 #integer
+height = 1.8 #float
+comp = 1j #complex
+is_married = False #boolean
 
-first_num = 33
-second_num = 10
-
-addition = first_num + second_num 
-subtraction = first_num - second_num
-division = first_num / second_num
-quotient = first_num // second_num
-remainder = first_num % second_num
-
-print(f"Addition: {addition}")
-print(f"Subtraction: {subtraction}")
-print(f"Division: {division}")
-print(f"quotient: {quotient}")
-print(f"Remainder: {remainder}")
+#print all data type
+print(f'My name is {name} and i am {age} years old and my height is {height}, and i am {comp} complex and i am {is_married}')
 
 
-user_name = "hadiul"
-country = "Bangladesh"
-age = 20
-age_value = str(age)
 
-print(f"Name : {user_name}  Country: {country}  Age: {age_value}")
-print(len(user_name))
 
 

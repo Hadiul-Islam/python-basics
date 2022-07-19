@@ -1,4 +1,4 @@
-# Basic Python with [Hadiul Islam](https://hadiul.me/)
+# Basic Python with [Hadiul Islam](https://github.com/hadiul-islam)
 
 # What is Python?
 #### Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
